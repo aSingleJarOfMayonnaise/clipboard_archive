@@ -42,7 +42,6 @@ root = tk.Tk()
 root.withdraw()
 
 # A regex that can check if a string contains any non-alphanumeric characters.
-# The second regex is for decoding saved archives.
 nonAlphaRegex = re.compile(r'\W')
 
 
