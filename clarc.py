@@ -3,7 +3,6 @@
 # and the values can only be plain text. Attempts to use other 
 # characters in the key names will fail.
 
-# Dependencies.
 import sys
 import os
 import argparse
